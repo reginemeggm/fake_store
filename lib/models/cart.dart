@@ -15,7 +15,7 @@ class Cart {
     return Cart(
       id: data['id'],
       userId: data['userId'],
-       date: DateTime.parse(data['date']),
+      date: DateTime.parse(data['date']),
       products: data['products'],
     );
   }
