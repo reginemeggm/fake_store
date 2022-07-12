@@ -1,7 +1,6 @@
 import 'package:fake_store/screens/products_by_category.dart';
 import 'package:flutter/material.dart';
 import 'package:get_it/get_it.dart';
-
 import '../services/api_service.dart';
 
 class AllCategoryScreen extends StatelessWidget {

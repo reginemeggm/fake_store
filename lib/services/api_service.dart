@@ -7,8 +7,9 @@ import '../models/user_login.dart';
 
 
 class ApiService {
-  static const String baseUrl = 'https://fakestoreapi.com';
+  static const String baseUrl = 'https://fakestoreapi.com'; 
 
+  //FakeStoreAPI is a free online REST API that you can use whenever you need Pseudo-real data for your e-commerce or shopping website without running any server-side code.
 
    static const headers = {'Content-type': 'application/json'};
 
